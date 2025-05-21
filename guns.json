@@ -3,7 +3,7 @@
         "id": "WP-01",
         "weaponName": "SAR 21",
         "weaponDescription": "A bullpup assault rifle designed and manufactured in Singapore.",
-        "range": 800,
+        "rangeMeters": 800,
         "isInService": true,
         "designed": "1996",
         "image_url": "https://raw.githubusercontent.com/chatarabdelilah/images/main/SAR%2021.png",
@@ -13,8 +13,8 @@
             "id": "RMAF",
             "name": "the Royal Moroccan Armed Forces",
             "isActive": true,
-            "perosnnel": 1,
-            "flag": ""
+            "personnel": 250000,
+            "flag": "https://raw.githubusercontent.com/chatarabdelilah/images/main/RoyalMoroccanArmy.png"
         }
     },
     {
@@ -31,8 +31,8 @@
             "id": "RMAF",
             "name": "the Royal Moroccan Armed Forces",
             "isActive": true,
-            "perosnnel": 1,
-            "flag": ""
+            "personnel": 250000,
+            "flag": "https://raw.githubusercontent.com/chatarabdelilah/images/main/RoyalMoroccanArmy.png"
         }
     },
     {
@@ -49,8 +49,8 @@
             "id": "RMAF",
             "name": "the Royal Moroccan Armed Forces",
             "isActive": true,
-            "perosnnel": 1,
-            "flag": ""
+            "personnel": 250000,
+            "flag": "https://raw.githubusercontent.com/chatarabdelilah/images/main/RoyalMoroccanArmy.png"
         }
     },
     {
@@ -67,8 +67,8 @@
             "id": "RAF",
             "name": "the Russian Armed Forces",
             "isActive": true,
-            "perosnnel": 1,
-            "flag": ""
+            "personnel": 1500000,
+            "flag": "https://raw.githubusercontent.com/chatarabdelilah/images/main/RussianArmy.png"
         }
     },
     {
@@ -85,8 +85,8 @@
             "id": "RAF",
             "name": "the Russian Armed Forces",
             "isActive": true,
-            "perosnnel": 1,
-            "flag": ""
+            "personnel": 1500000,
+            "flag": "https://raw.githubusercontent.com/chatarabdelilah/images/main/RussianArmy.png"
         }
     },
     {
@@ -103,8 +103,8 @@
             "id": "RAF",
             "name": "the Russian Armed Forces",
             "isActive": true,
-            "perosnnel": 1,
-            "flag": ""
+            "personnel": 1500000,
+            "flag": "https://raw.githubusercontent.com/chatarabdelilah/images/main/RussianArmy.png"
         }
     },
     {
@@ -121,8 +121,8 @@
             "id": "RMAF",
             "name": "the Royal Moroccan Armed Forces",
             "isActive": true,
-            "perosnnel": 1,
-            "flag": ""
+            "personnel": 250000,
+            "flag": "https://raw.githubusercontent.com/chatarabdelilah/images/main/RoyalMoroccanArmy.png"
         }
     },
     {
@@ -139,8 +139,8 @@
             "id": "RMAF",
             "name": "the Royal Moroccan Armed Forces",
             "isActive": true,
-            "perosnnel": 1,
-            "flag": ""
+            "personnel": 250000,
+            "flag": "https://raw.githubusercontent.com/chatarabdelilah/images/main/RoyalMoroccanArmy.png"
         }
     },
     {
@@ -157,8 +157,8 @@
             "id": "RAF",
             "name": "the Russian Armed Forces",
             "isActive": true,
-            "perosnnel": 1,
-            "flag": ""
+            "personnel": 1500000,
+            "flag": "https://raw.githubusercontent.com/chatarabdelilah/images/main/RussianArmy.png"
         }
     },
     {
@@ -175,8 +175,8 @@
             "id": "RMAF",
             "name": "the Royal Moroccan Armed Forces",
             "isActive": true,
-            "perosnnel": 1,
-            "flag": ""
+            "personnel": 250000,
+            "flag": "https://raw.githubusercontent.com/chatarabdelilah/images/main/RoyalMoroccanArmy.png"
         }
     }
 ]
