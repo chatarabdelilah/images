@@ -1,0 +1,16 @@
+[
+    {
+        "id": "RMAF",
+        "name": "the Royal Moroccan Armed Forces",
+        "isActive": true,
+        "personnel": 250000,
+        "flag_url": "https://raw.githubusercontent.com/chatarabdelilah/images/main/RoyalMoroccanArmy.png"
+    },
+    {
+        "id": "RAF",
+        "name": "Russian Armed Forces",
+        "isActive": true,
+        "personnel": 1500000,
+        "flag": "https://raw.githubusercontent.com/chatarabdelilah/images/main/RussianArmy.png"
+    }
+]
