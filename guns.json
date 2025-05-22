@@ -8,7 +8,7 @@
         "designed": "1996",
         "image_url": "https://raw.githubusercontent.com/chatarabdelilah/images/main/SAR%2021.png",
         "type": "Assault Rifle",
-        "features": ["Bullpup design", "Double feeding system", "5.56mm"],
+        "features": ["Bullpup design", "double feeding system", "5.56mm"],
         "armedForceAffiliation": {
             "id": "RMAF",
             "name": "the Royal Moroccan Armed Forces",
@@ -26,7 +26,7 @@
         "designed": "1993",
         "image_url": "https://raw.githubusercontent.com/chatarabdelilah/images/main/M4%20Carbine.jpg",
         "type": "Assault Rifle",
-        "features": ["Semi/burst fire modes", "Collapsible stock", "5.56mm"],
+        "features": ["Semi/burst fire modes", "collapsible stock", "5.56mm"],
         "armedForceAffiliation": {
             "id": "RMAF",
             "name": "the Royal Moroccan Armed Forces",
@@ -44,7 +44,7 @@
         "designed": "2004",
         "image_url": "https://raw.githubusercontent.com/chatarabdelilah/images/main/FN%20SCAR.webp",
         "type": "Battle Rifle",
-        "features": ["Ambidextrous controls", "Quick-change barrel system", "7.62mm"],
+        "features": ["Ambidextrous controls", "quick-change barrel system", "7.62mm"],
         "armedForceAffiliation": {
             "id": "RMAF",
             "name": "the Royal Moroccan Armed Forces",
@@ -80,7 +80,7 @@
         "designed": "1990",
         "image_url": "https://raw.githubusercontent.com/chatarabdelilah/images/main/Saiga%2012.jpg",
         "type": "Shotgun",
-        "features": ["Semi-automatic", "Detachable box magazines", "12 gauge"],
+        "features": ["Semi-automatic", "detachable box magazines", "12 gauge"],
         "armedForceAffiliation": {
             "id": "RAF",
             "name": "the Russian Armed Forces",
@@ -98,7 +98,7 @@
         "designed": "1891",
         "image_url": "https://raw.githubusercontent.com/chatarabdelilah/images/main/Mosin-Nagant.png",
         "type": "Bolt-Action Sniper Rifle",
-        "features": ["Stripper clip loading", "Turn-down bolt handle", "7.62mm"],
+        "features": ["Stripper clip loading", "turn-down bolt handle", "7.62mm"],
         "armedForceAffiliation": {
             "id": "RAF",
             "name": "the Russian Armed Forces",
@@ -116,7 +116,7 @@
         "designed": "1966",
         "image_url": "https://raw.githubusercontent.com/chatarabdelilah/images/main/MP5A3.jpg",
         "type": "Submachine Gun",
-        "features": ["Ambidextrous selector", "Automatic bolt hold-open", "9mm"],
+        "features": ["Ambidextrous selector", "automatic bolt hold-open", "9mm"],
         "armedForceAffiliation": {
             "id": "RMAF",
             "name": "the Royal Moroccan Armed Forces",
@@ -134,7 +134,7 @@
         "designed": "1977",
         "image_url": "https://raw.githubusercontent.com/chatarabdelilah/images/main/AUG%20A1.png",
         "type": "Assault Rifle",
-        "features": ["Bullpup design", "Forward ejection port conversion", "5.56mm"],
+        "features": ["Bullpup design", "forward ejection port conversion", "5.56mm"],
         "armedForceAffiliation": {
             "id": "RMAF",
             "name": "the Royal Moroccan Armed Forces",
@@ -152,7 +152,7 @@
         "designed": "1987",
         "image_url": "https://raw.githubusercontent.com/chatarabdelilah/images/main/AS%20VAL.webp",
         "type": "Assault Rifle",
-        "features": ["Integrated suppressor", "Side-folding stock", "9mm"],
+        "features": ["Integrated suppressor", "side-folding stock", "9mm"],
         "armedForceAffiliation": {
             "id": "RAF",
             "name": "the Russian Armed Forces",
@@ -170,7 +170,7 @@
         "designed": "1975",
         "image_url": "https://raw.githubusercontent.com/chatarabdelilah/images/main/Beretta%2092.jpg",
         "type": "Pistol",
-        "features": ["Decocker safety", "Alloy frame", "9mm"],
+        "features": ["Decocker safety", "alloy frame", "9mm"],
         "armedForceAffiliation": {
             "id": "RMAF",
             "name": "the Royal Moroccan Armed Forces",
