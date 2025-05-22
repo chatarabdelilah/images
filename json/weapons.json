@@ -1,1 +1,182 @@
-
+[
+    {
+        "id": "WP-01",
+        "weaponName": "SAR 21",
+        "weaponDescription": "A bullpup assault rifle designed and manufactured in Singapore.",
+        "rangeMeters": 800,
+        "isInService": true,
+        "designed": "1996",
+        "image_url": "https://raw.githubusercontent.com/chatarabdelilah/images/main/SAR%2021.png",
+        "type": "Assault Rifle",
+        "features": ["Bullpup design", "double feeding system", "5.56mm"],
+        "armedForceAffiliation": {
+            "id": "RMAF",
+            "name": "the Royal Moroccan Armed Forces",
+            "isActive": true,
+            "personnel": 250000,
+            "flag": "https://raw.githubusercontent.com/chatarabdelilah/images/main/RoyalMoroccanArmy.png"
+        }
+    },
+    {
+        "id": "WP-02",
+        "weaponName": "M4 Carbine",
+        "weaponDescription": "An American carbine based on the AR-15 platform.",
+        "rangeMeters": 500,
+        "isInService": true,
+        "designed": "1993",
+        "image_url": "https://raw.githubusercontent.com/chatarabdelilah/images/main/M4%20Carbine.jpg",
+        "type": "Assault Rifle",
+        "features": ["Semi/burst fire modes", "collapsible stock", "5.56mm"],
+        "armedForceAffiliation": {
+            "id": "RMAF",
+            "name": "the Royal Moroccan Armed Forces",
+            "isActive": true,
+            "personnel": 250000,
+            "flag": "https://raw.githubusercontent.com/chatarabdelilah/images/main/RoyalMoroccanArmy.png"
+        }
+    },
+    {
+        "id": "WP-03",
+        "weaponName": "FN SCAR",
+        "weaponDescription": "A Belgian rifle, favored by SOCOM. Jack of all trades battle rifle.",
+        "rangeMeters": 600,
+        "isInService": true,
+        "designed": "2004",
+        "image_url": "https://raw.githubusercontent.com/chatarabdelilah/images/main/FN%20SCAR.webp",
+        "type": "Battle Rifle",
+        "features": ["Ambidextrous controls", "quick-change barrel system", "7.62mm"],
+        "armedForceAffiliation": {
+            "id": "RMAF",
+            "name": "the Royal Moroccan Armed Forces",
+            "isActive": true,
+            "personnel": 250000,
+            "flag": "https://raw.githubusercontent.com/chatarabdelilah/images/main/RoyalMoroccanArmy.png"
+        }
+    },
+    {
+        "id": "WP-04",
+        "weaponName": "AN-94",
+        "weaponDescription": "A complex Russian assault rifle featuring a unique pulley-driven burst system. Fires two shots in the exact same place before recoil is felt.",
+        "rangeMeters": 800,
+        "isInService": true,
+        "designed": "1994",
+        "image_url": "https://raw.githubusercontent.com/chatarabdelilah/images/main/AN-94.jpg",
+        "type": "Assault Rifle",
+        "features": ["Side-folding stock", "2-round hyper-burst mode", "5.45mm"],
+        "armedForceAffiliation": {
+            "id": "RAF",
+            "name": "the Russian Armed Forces",
+            "isActive": true,
+            "personnel": 1500000,
+            "flag": "https://raw.githubusercontent.com/chatarabdelilah/images/main/RussianArmy.png"
+        }
+    },
+    {
+        "id": "WP-05",
+        "weaponName": "Saiga-12",
+        "weaponDescription": "A firearm made by Kalashnikov Concern that is primarily focused on the civilian market.",
+        "rangeMeters": 75,
+        "isInService": true,
+        "designed": "1990",
+        "image_url": "https://raw.githubusercontent.com/chatarabdelilah/images/main/Saiga%2012.jpg",
+        "type": "Shotgun",
+        "features": ["Semi-automatic", "detachable box magazines", "12 gauge"],
+        "armedForceAffiliation": {
+            "id": "RAF",
+            "name": "the Russian Armed Forces",
+            "isActive": true,
+            "personnel": 1500000,
+            "flag": "https://raw.githubusercontent.com/chatarabdelilah/images/main/RussianArmy.png"
+        }
+    },
+    {
+        "id": "WP-06",
+        "weaponName": "Mosin-Nagant",
+        "weaponDescription": "A vintage Russian sniper rifle dating from the 1900s.",
+        "rangeMeters": 800,
+        "isInService": true,
+        "designed": "1891",
+        "image_url": "https://raw.githubusercontent.com/chatarabdelilah/images/main/Mosin-Nagant.png",
+        "type": "Bolt-Action Sniper Rifle",
+        "features": ["Stripper clip loading", "turn-down bolt handle", "7.62mm"],
+        "armedForceAffiliation": {
+            "id": "RAF",
+            "name": "the Russian Armed Forces",
+            "isActive": true,
+            "personnel": 1500000,
+            "flag": "https://raw.githubusercontent.com/chatarabdelilah/images/main/RussianArmy.png"
+        }
+    },
+    {
+        "id": "WP-07",
+        "weaponName": "MP5A3",
+        "weaponDescription": "Famous for its police and media usage, the MP5A3 is a German submachine gun favored for its size.",
+        "rangeMeters": 200,
+        "isInService": true,
+        "designed": "1966",
+        "image_url": "https://raw.githubusercontent.com/chatarabdelilah/images/main/MP5A3.jpg",
+        "type": "Submachine Gun",
+        "features": ["Ambidextrous selector", "automatic bolt hold-open", "9mm"],
+        "armedForceAffiliation": {
+            "id": "RMAF",
+            "name": "the Royal Moroccan Armed Forces",
+            "isActive": true,
+            "personnel": 250000,
+            "flag": "https://raw.githubusercontent.com/chatarabdelilah/images/main/RoyalMoroccanArmy.png"
+        }
+    },
+    {
+        "id": "WP-08",
+        "weaponName": "AUG A1/A2/A3",
+        "weaponDescription": "An Austrian bullpup assault rifle with a built-in telescopic optic or Picatinny rail.",
+        "rangeMeters": 450,
+        "isInService": true,
+        "designed": "1977",
+        "image_url": "https://raw.githubusercontent.com/chatarabdelilah/images/main/AUG%20A1.png",
+        "type": "Assault Rifle",
+        "features": ["Bullpup design", "forward ejection port conversion", "5.56mm"],
+        "armedForceAffiliation": {
+            "id": "RMAF",
+            "name": "the Royal Moroccan Armed Forces",
+            "isActive": true,
+            "personnel": 250000,
+            "flag": "https://raw.githubusercontent.com/chatarabdelilah/images/main/RoyalMoroccanArmy.png"
+        }
+    },
+    {
+        "id": "WP-09",
+        "weaponName": "AS Val",
+        "weaponDescription": "A Russian special-ops assault rifle with a large suppressor.",
+        "rangeMeters": 400,
+        "isInService": true,
+        "designed": "1987",
+        "image_url": "https://raw.githubusercontent.com/chatarabdelilah/images/main/AS%20VAL.webp",
+        "type": "Assault Rifle",
+        "features": ["Integrated suppressor", "side-folding stock", "9mm"],
+        "armedForceAffiliation": {
+            "id": "RAF",
+            "name": "the Russian Armed Forces",
+            "isActive": true,
+            "personnel": 1500000,
+            "flag": "https://raw.githubusercontent.com/chatarabdelilah/images/main/RussianArmy.png"
+        }
+    },
+    {
+        "id": "WP-10",
+        "weaponName": "Beretta 92",
+        "weaponDescription": "Italian semi-automatic pistol, standard issue for the U.S. military.",
+        "rangeMeters": 50,
+        "isInService": true,
+        "designed": "1975",
+        "image_url": "https://raw.githubusercontent.com/chatarabdelilah/images/main/Beretta%2092.jpg",
+        "type": "Pistol",
+        "features": ["Decocker safety", "alloy frame", "9mm"],
+        "armedForceAffiliation": {
+            "id": "RMAF",
+            "name": "the Royal Moroccan Armed Forces",
+            "isActive": true,
+            "personnel": 250000,
+            "flag": "https://raw.githubusercontent.com/chatarabdelilah/images/main/RoyalMoroccanArmy.png"
+        }
+    }
+]
